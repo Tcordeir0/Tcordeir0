@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Douglas!
+# 👋 Olá, eu sou o Talys Matheus!
 
 ## 💻 Sobre Mim
 Sou estudante de Engenharia de Software, profundamente apaixonado por tecnologia e desenvolvimento. Encontro-me empenhado em qualificar-me para alcançar a excelência na área de desenvolvimento backend. Há aproximadamente um ano, iniciei uma dedicação intensa aos estudos, tanto no âmbito acadêmico quanto pessoal. Além de aprimorar minhas habilidades técnicas, busco constantemente melhorar minhas soft skills e evoluir como indivíduo. Aprecio a criação de conexões e a construção de uma rede de contatos com pessoas que compartilham objetivos e interesses semelhantes.
