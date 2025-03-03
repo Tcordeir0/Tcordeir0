@@ -20,24 +20,74 @@ const talys = {
 }
 ```
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Stack Tecnológica
 
 <div align="center">
 
-### Linguagens & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+```python
+class TalysStack:
+    def __init__(self):
+        self.backend = {
+            "principal": "Python 3.7+",
+            "frameworks": ["Flask", "Django"],
+            "orm": "SQLAlchemy",
+            "databases": ["SQLite", "MySQL"],
+            "segurança": ["Flask-Talisman", "Rate Limiting"],
+            "ai_integration": "OpenAI GPT"
+        }
+        
+        self.frontend = {
+            "framework_css": "Tailwind CSS",
+            "javascript": "JavaScript Moderno",
+            "email_service": "EmailJS (Criptografado)",
+            "desktop": "CustomTkinter",
+            "markup": ["HTML5", "CSS3"],
+            "responsive": "Mobile First Design"
+        }
+        
+        self.outros = {
+            "linguagens": ["C", "PHP"],
+            "controle_versao": "Git/GitHub",
+            "metodologias": ["Scrum", "Kanban"],
+            "soft_skills": ["Trabalho em Equipe", "Resolução de Problemas"]
+        }
+        
+    def get_skills(self):
+        return "🚀 Desenvolvedor Full Stack com foco em Backend"
+
+
+# Inicializando minha stack...
+my_stack = TalysStack()
+```
+
+### Backend & Frameworks
+![Python](https://img.shields.io/badge/Python_3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Banco de Dados & ORM
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend & Design
+![JavaScript](https://img.shields.io/badge/JavaScript_Moderno-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 
-### Ferramentas & Ambientes
+### Integrações & Segurança
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-FF6C37?style=for-the-badge&logo=gmail&logoColor=white)
+![Security](https://img.shields.io/badge/Flask_Talisman-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Ferramentas & Metodologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 </div>
 
