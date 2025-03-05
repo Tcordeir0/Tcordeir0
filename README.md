@@ -89,13 +89,75 @@ my_stack = TalysStack()
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
+## 🏆 Conquistas e Certificações
+
+<div align="center">
+
+```python
+class Certificacoes:
+    def __init__(self):
+        self.cursos = {
+            "backend": [
+                "Python Pro [Em Andamento]",
+                "Desenvolvimento Web Completo",
+                "APIs RESTful com Python"
+            ],
+            "cloud": [
+                "AWS Cloud Practitioner [Estudando]"
+            ],
+            "soft_skills": [
+                "Metodologias Ágeis",
+                "Gestão de Projetos"
+            ]
+        }
+
+    def objetivo_2024(self):
+        return "Especialização em Arquitetura de Software e Cloud Computing"
+```
+
 </div>
+
+## 🚀 Projetos em Destaque
+
+### 🌟 Portfolio Digital
+- **Tech Stack:** Python, Flask, SQLAlchemy, Tailwind CSS
+- **Descrição:** Site pessoal com blog integrado e sistema de gerenciamento de conteúdo
+- **Destaques:** Design responsivo, integração com IA, sistema de newsletter
+
+### 🤖 Bot de Automação
+- **Tech Stack:** Python, Selenium, MySQL
+- **Descrição:** Bot para automação de tarefas repetitivas
+- **Destaques:** Interface gráfica com CustomTkinter, geração de relatórios
+
+### 📊 Dashboard de Análise
+- **Tech Stack:** Python, Django, Chart.js
+- **Descrição:** Sistema de visualização de dados em tempo real
+- **Destaques:** Gráficos interativos, exportação de relatórios
+
+## 💡 Áreas de Interesse
+
+```javascript
+const interesses = {
+    arquitetura: ["Clean Architecture", "Microservices", "API Design"],
+    devops: ["Docker", "CI/CD", "AWS"],
+    ia: ["Machine Learning", "NLP", "Computer Vision"],
+    seguranca: ["Cybersecurity", "Ethical Hacking"]
+}
+```
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tcordeir0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcordeir0&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+</div>
+
+## 📈 Métricas de Código
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tcordeir0&theme=tokyonight&locale=pt-br)](https://git.io/streak-stats)
+
 </div>
 
 ## 🌟 Destaques
