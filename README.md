@@ -1,4 +1,6 @@
-# 🚀 Talys Matheus - Analista de TI & Especialista em Automação
+Aqui está a versão aprimorada com ícones e mais detalhes sobre seus projetos do GitHub:
+
+# 🚀 Talys Matheus - Engenheiro de Software & Especialista em Automação
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;N8N+Workflow+Expert;AI+Integration+Specialist;Typescript+Engineer" />
@@ -9,14 +11,22 @@
 ```typescript
 interface ProfessionalProfile {
   role: "Software Engineer";
-  expertise: ["Backend Development", "Process Automation", "AI Integration"];
-  currentFocus: "Building intelligent automation solutions with N8N";
-  signatureProjects: ["ZyxChat", "WhatsApp Automation Suite", "NF-e Reader"];
+  expertise: [
+    "🔧 Backend Development", 
+    "⚡ Process Automation", 
+    "🧠 AI Integration"
+  ];
+  currentFocus: "🛠️ Building intelligent automation solutions with N8N";
+  signatureProjects: [
+    "💬 ZyxChat", 
+    "📱 WhatsApp Automation Suite", 
+    "🧾 NF-e Reader"
+  ];
   techStack: {
-    languages: ["TypeScript", "Python", "PHP"];
-    frameworks: ["React", "Next.js", "Flask"];
-    automation: ["N8N", "LangChain", "Google Gemini"];
-    databases: ["PostgreSQL", "MongoDB", "Google Sheets"];
+    languages: ["🔵 TypeScript", "🐍 Python", "🟣 PHP"];
+    frameworks: ["⚛️ React", "➡️ Next.js", "🍶 Flask"];
+    automation: ["🔄 N8N", "⛓️ LangChain", "✨ Google Gemini"];
+    databases: ["🐘 PostgreSQL", "🍃 MongoDB", "📊 Google Sheets"];
   };
 }
 ```
@@ -42,40 +52,49 @@ interface ProfessionalProfile {
 
 ## 🏆 Projetos Notáveis
 
-### 🤖 ZyxChat - Plataforma de Chatbots
+### 💬 [ZyxChat - Plataforma de Chatbots](https://github.com/Tcordeir0/ZyxChat)
 - **Stack:** TypeScript, React, N8N, Evolution API
-- **Destaques:** 
-  - Sistema de fluxos conversacionais avançados
-  - Integração com múltiplos canais (WhatsApp, Telegram)
-  - Painel administrativo com React e TypeScript
+- **Features:**
+  - 🚀 Sistema de fluxos conversacionais avançados
+  - 🔄 Integração com WhatsApp, Telegram e SMS
+  - 📊 Painel administrativo com React e TypeScript
+  - 🤖 IA para respostas automáticas contextualizadas
 
-### 📄 Leitor Automático de NF-e
+### 📄 [Leitor Automático de NF-e](https://github.com/Tcordeir0/Leitor-de-NF)
 - **Stack:** N8N, Tesseract OCR, Google Gemini
 - **Recursos:**
-  - Extração automática de dados fiscais
-  - Processamento de imagens via WhatsApp
-  - Armazenamento em Google Sheets
-  - Validação de chaves de acesso
+  - 🔍 Extração automática de dados fiscais
+  - 📱 Processamento via WhatsApp (imagens/documents)
+  - 🗃️ Armazenamento em Google Sheets
+  - ✅ Validação de chaves de acesso de 44 dígitos
 
-### ⚡ Fluxos de Automação Empresarial
+### ⚡ [WhatsApp Automation Suite](https://github.com/Tcordeir0/WhatsApp-Automation)
 - **Tecnologias:** 
   - N8N workflows complexos
-  - Integração Google Drive/Sheets
-  - Processamento de documentos com IA
-  - Comunicação automatizada via Outlook/WhatsApp
+  - Evolution API integration
+  - Google Sheets como banco de dados
+  - LangChain para memória de conversação
 
-## 📈 Experiência em Automação
+### 🏦 [Sistema Bancário Simples](https://github.com/Tcordeir0/Sistema-Bancario)
+- **Stack:** Python, SQLite
+- **Destaques:**
+  - 🏛️ Operações bancárias básicas
+  - 🔐 Sistema de autenticação
+  - 📈 Gerenciamento de contas e transações
 
-```mermaid
-graph TD
-    A[Recebimento de Mensagem] --> B{É documento/imagem?}
-    B -->|Sim| C[Processar OCR]
-    B -->|Não| D[Solicitar documento]
-    C --> E[Extrair dados com IA]
-    E --> F{Dados válidos?}
-    F -->|Sim| G[Armazenar no banco de dados]
-    F -->|Não| H[Notificar erro]
-```
+### 🎮 [Jogo da Forca](https://github.com/Tcordeir0/Jogo-da-Forca)
+- **Tecnologias:** Python
+- **Features:**
+  - 🎯 Lógica de jogo completa
+  - 📖 Sistema de palavras e dicas
+  - 🖥️ Interface de terminal intuitiva
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tcordeir0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcordeir0&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+</div>
 
 ## 🎓 Educação Contínua
 
@@ -83,16 +102,16 @@ graph TD
 class OngoingEducation:
     def __init__(self):
         self.current_focus = [
-            "Advanced TypeScript Patterns",
-            "Microservices Architecture",
-            "AI-Powered Automation"
+            "📘 Advanced TypeScript Patterns",
+            "🏗️ Microservices Architecture",
+            "🤖 AI-Powered Automation"
         ]
         
     def certifications(self):
         return {
-            "n8n": "Advanced Workflow Design",
-            "google_cloud": "AI/ML Specialization",
-            "react": "TypeScript Best Practices"
+            "n8n": "🎖️ Advanced Workflow Design",
+            "google_cloud": "☁️ AI/ML Specialization",
+            "react": "⚛️ TypeScript Best Practices"
         }
 ```
 
@@ -111,4 +130,3 @@ class OngoingEducation:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Tcordeir0&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil"/>
 </div>
-
