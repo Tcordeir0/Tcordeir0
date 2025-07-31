@@ -166,7 +166,7 @@ interface ProfessionalProfile {
       <br><strong>Git</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flifeincloud.com%2Ffeatures%2Fmarketplace%2Feasypanel-app%2F&psig=AOvVaw2xX6aZ1zeXE_wHWJNxjNDl&ust=1754048680368000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiK29mC544DFQAAAAAdAAAAABAK" width="48" height="48" alt="EasyPanel"/>
+      <img src="https://lifeincloud.com/wp-content/uploads/2024/10/app-easypanel.svg" width="48" height="48" alt="EasyPanel"/>
       <br><strong>EasyPanel</strong>
     </td>
  <td align="center" width="110">
