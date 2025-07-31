@@ -50,6 +50,9 @@ interface ProfessionalProfile {
 ![Evolution API](https://img.shields.io/badge/Evolution_API-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![ZyxChat](https://img.shields.io/badge/ZyxChat-FF6C37?style=for-the-badge&logo=chatbot&logoColor=white)
 
+🔧 Stack Tecnológica Completa
+<table align="center"> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /> <br>TypeScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /> <br>React </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /> <br>Next.js </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /> <br>Flask </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /> <br>PostgreSQL </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /> <br>MongoDB </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=n8n" width="48" height="48" alt="N8N" /> <br>N8N </td> </tr> </table>
+
 ## 🏆 Projetos Notáveis
 
 ### 💬 [ZyxChat - Plataforma de Chatbots](https://github.com/Tcordeir0/ZyxChat)
