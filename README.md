@@ -1,184 +1,111 @@
-# 👋 Olá Mundo! Eu sou o Talys Matheus
+# 🚀 Talys Matheus - Engenheiro de Software & Especialista em Automação
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Back-End;Engenheiro+de+Software+em+Formação;Apaixonado+por+Tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;N8N+Workflow+Expert;AI+Integration+Specialist;Typescript+Engineer" />
 </div>
 
-<div align="center">
-  <p>🚀 Construindo o futuro através de código, um commit de cada vez</p>
-</div>
+## 🔍 Visão Profissional
 
-## 🎯 Sobre Mim
-
-```javascript
-const talys = {
-    formação: "Engenharia de Software",
-    foco: "Desenvolvimento Back-End",
-    paixões: ["Tecnologia", "Desenvolvimento", "Aprendizado Contínuo"],
-    experiência: "1+ ano de dedicação intensiva",
-    objetivos: ["Excelência técnica", "Desenvolvimento pessoal", "Networking"]
+```typescript
+interface ProfessionalProfile {
+  role: "Software Engineer";
+  expertise: ["Backend Development", "Process Automation", "AI Integration"];
+  currentFocus: "Building intelligent automation solutions with N8N";
+  signatureProjects: ["ZyxChat", "WhatsApp Automation Suite", "NF-e Reader"];
+  techStack: {
+    languages: ["TypeScript", "Python", "PHP"];
+    frameworks: ["React", "Next.js", "Flask"];
+    automation: ["N8N", "LangChain", "Google Gemini"];
+    databases: ["PostgreSQL", "MongoDB", "Google Sheets"];
+  };
 }
 ```
 
-## 💻 Stack Tecnológica
+## 🛠️ Habilidades Técnicas Avançadas
 
-<div align="center">
+### N8N & Automação
+![N8N](https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-FF6C37?style=for-the-badge&logo=robot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge&logo=chainlink&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Desenvolvimento Moderno
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Sistemas de Mensageria
+![Whaticket](https://img.shields.io/badge/Whaticket-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution_API-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)
+![ZyxChat](https://img.shields.io/badge/ZyxChat-FF6C37?style=for-the-badge&logo=chatbot&logoColor=white)
+
+## 🏆 Projetos Notáveis
+
+### 🤖 ZyxChat - Plataforma de Chatbots
+- **Stack:** TypeScript, React, N8N, Evolution API
+- **Destaques:** 
+  - Sistema de fluxos conversacionais avançados
+  - Integração com múltiplos canais (WhatsApp, Telegram)
+  - Painel administrativo com React e TypeScript
+
+### 📄 Leitor Automático de NF-e
+- **Stack:** N8N, Tesseract OCR, Google Gemini
+- **Recursos:**
+  - Extração automática de dados fiscais
+  - Processamento de imagens via WhatsApp
+  - Armazenamento em Google Sheets
+  - Validação de chaves de acesso
+
+### ⚡ Fluxos de Automação Empresarial
+- **Tecnologias:** 
+  - N8N workflows complexos
+  - Integração Google Drive/Sheets
+  - Processamento de documentos com IA
+  - Comunicação automatizada via Outlook/WhatsApp
+
+## 📈 Experiência em Automação
+
+```mermaid
+graph TD
+    A[Recebimento de Mensagem] --> B{É documento/imagem?}
+    B -->|Sim| C[Processar OCR]
+    B -->|Não| D[Solicitar documento]
+    C --> E[Extrair dados com IA]
+    E --> F{Dados válidos?}
+    F -->|Sim| G[Armazenar no banco de dados]
+    F -->|Não| H[Notificar erro]
+```
+
+## 🎓 Educação Contínua
 
 ```python
-class TalysStack:
+class OngoingEducation:
     def __init__(self):
-        self.backend = {
-            "principal": "Python 3.7+",
-            "frameworks": ["Flask", "Django"],
-            "orm": "SQLAlchemy",
-            "databases": ["SQLite", "MySQL"],
-            "segurança": ["Flask-Talisman", "Rate Limiting"],
-            "ai_integration": "OpenAI GPT"
-        }
+        self.current_focus = [
+            "Advanced TypeScript Patterns",
+            "Microservices Architecture",
+            "AI-Powered Automation"
+        ]
         
-        self.frontend = {
-            "framework_css": "Tailwind CSS",
-            "javascript": "JavaScript Moderno",
-            "email_service": "EmailJS (Criptografado)",
-            "desktop": "CustomTkinter",
-            "markup": ["HTML5", "CSS3"],
-            "responsive": "Mobile First Design"
+    def certifications(self):
+        return {
+            "n8n": "Advanced Workflow Design",
+            "google_cloud": "AI/ML Specialization",
+            "react": "TypeScript Best Practices"
         }
-        
-        self.outros = {
-            "linguagens": ["C", "PHP"],
-            "controle_versao": "Git/GitHub",
-            "metodologias": ["Scrum", "Kanban"],
-            "soft_skills": ["Trabalho em Equipe", "Resolução de Problemas"]
-        }
-        
-    def get_skills(self):
-        return "🚀 Desenvolvedor Full Stack com foco em Backend"
-
-
-# Inicializando minha stack...
-my_stack = TalysStack()
 ```
 
-### Backend & Frameworks
-![Python](https://img.shields.io/badge/Python_3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Banco de Dados & ORM
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend & Design
-![JavaScript](https://img.shields.io/badge/JavaScript_Moderno-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-
-### Integrações & Segurança
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![EmailJS](https://img.shields.io/badge/EmailJS-FF6C37?style=for-the-badge&logo=gmail&logoColor=white)
-![Security](https://img.shields.io/badge/Flask_Talisman-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Ferramentas & Metodologias
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
-## 🏆 Conquistas e Certificações
+## 🌐 Conecte-se Comigo
 
 <div align="center">
-
-```python
-class Certificacoes:
-    def __init__(self):
-        self.cursos = {
-            "backend": [
-                "Python Pro [Em Andamento]",
-                "Desenvolvimento Web Completo",
-                "APIs RESTful com Python"
-            ],
-            "cloud": [
-                "AWS Cloud Practitioner [Estudando]"
-            ],
-            "soft_skills": [
-                "Metodologias Ágeis",
-                "Gestão de Projetos"
-            ]
-        }
-
-    def objetivo_2024(self):
-        return "Especialização em Arquitetura de Software e Cloud Computing"
-```
-
-</div>
-
-## 🚀 Projetos em Destaque
-
-### 🌟 Portfolio Digital
-- **Tech Stack:** Python, Flask, SQLAlchemy, Tailwind CSS
-- **Descrição:** Site pessoal com blog integrado e sistema de gerenciamento de conteúdo
-- **Destaques:** Design responsivo, integração com IA, sistema de newsletter
-
-### 🤖 Bot de Automação
-- **Tech Stack:** Python, Selenium, MySQL
-- **Descrição:** Bot para automação de tarefas repetitivas
-- **Destaques:** Interface gráfica com CustomTkinter, geração de relatórios
-
-### 📊 Dashboard de Análise
-- **Tech Stack:** Python, Django, Chart.js
-- **Descrição:** Sistema de visualização de dados em tempo real
-- **Destaques:** Gráficos interativos, exportação de relatórios
-
-## 💡 Áreas de Interesse
-
-```javascript
-const interesses = {
-    arquitetura: ["Clean Architecture", "Microservices", "API Design"],
-    devops: ["Docker", "CI/CD", "AWS"],
-    ia: ["Machine Learning", "NLP", "Computer Vision"],
-    seguranca: ["Cybersecurity", "Ethical Hacking"]
-}
-```
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tcordeir0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcordeir0&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
-</div>
-
-## 📈 Métricas de Código
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tcordeir0&theme=tokyonight&locale=pt-br)](https://git.io/streak-stats)
-
-</div>
-
-## 🌟 Destaques
-
-- 🎓 Estudante dedicado de Engenharia de Software
-- 💡 Especialização em desenvolvimento Back-End
-- 🌱 Em constante evolução e aprendizado
-- 🤝 Aberto a novas conexões e parcerias
-
-## 📫 Vamos Conectar!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talys-matheus-c-silva-b04aa42a7/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talysmatheus12@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5564999727955)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-github)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tcordeir0&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=Tcordeir0&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
