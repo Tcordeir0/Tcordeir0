@@ -130,6 +130,7 @@ interface ProfessionalProfile {
 </table>
 
 ### 🔹 Ferramentas & Plataformas
+
 <table>
   <tr>
     <td align="center" width="110">
@@ -141,39 +142,37 @@ interface ProfessionalProfile {
       <br><strong>VS Code</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio"/>
-      <br><strong>Visual Studio</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
-      <br><strong>Ubuntu 20/22</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ssh" width="48" height="48" alt="SSH"/>
-      <br><strong>SSH</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
       <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI"/>
-      <br><strong>IA/ML</strong>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
       <br><strong>Git</strong>
     </td>
     <td align="center" width="110">
-      <img src="custom-easypanel-icon.png" width="48" height="48" alt="EasyPanel"/>
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+      <br><strong>Linux (VPS)</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/easypanel-io/brand/main/logo/logo-in-a-box/logo-box-dark.svg" width="48" height="48" alt="EasyPanel"/>
       <br><strong>EasyPanel</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=server" width="48" height="48" alt="VPS"/>
-      <br><strong>VPS</strong>
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI"/>
+      <br><strong>IA/ML</strong>
     </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio"/>
+      <br><strong>Visual Studio</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ssh" width="48" height="48" alt="SSH"/>
+      <br><strong>SSH</strong>
+    </td>
+     <td align="center" width="110">
+      </td>
   </tr>
 </table>
 
