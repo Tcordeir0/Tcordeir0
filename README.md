@@ -51,7 +51,133 @@ interface ProfessionalProfile {
 ![ZyxChat](https://img.shields.io/badge/ZyxChat-FF6C37?style=for-the-badge&logo=chatbot&logoColor=white)
 
 🔧 Stack Tecnológica Completa
-<table align="center"> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /> <br>TypeScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /> <br>React </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /> <br>Next.js </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /> <br>Flask </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /> <br>PostgreSQL </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /> <br>MongoDB </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=n8n" width="48" height="48" alt="N8N" /> <br>N8N </td> </tr> </table>
+## 🛠️ Stack Tecnológica Completa
+
+<div align="center">
+  
+### 🔹 Linguagens & Frameworks
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/>
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
+      <br><strong>PHP</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+      <br><strong>Next.js</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/>
+      <br><strong>Flask</strong>
+    </td>
+  </tr>
+</table>
+
+### 🔹 Banco de Dados & Cloud
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="Google Cloud"/>
+      <br><strong>GCP</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+      <br><strong>AWS</strong>
+    </td>
+  </tr>
+</table>
+
+### 🔹 Ferramentas & Plataformas
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=n8n" width="48" height="48" alt="N8N"/>
+      <br><strong>N8N</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/>
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio"/>
+      <br><strong>Visual Studio</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+      <br><strong>Ubuntu 20/22</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ssh" width="48" height="48" alt="SSH"/>
+      <br><strong>SSH</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI"/>
+      <br><strong>IA/ML</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="custom-easypanel-icon.png" width="48" height="48" alt="EasyPanel"/>
+      <br><strong>EasyPanel</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=server" width="48" height="48" alt="VPS"/>
+      <br><strong>VPS</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 🏆 Projetos Notáveis
 
