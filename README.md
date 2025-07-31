@@ -1,6 +1,6 @@
 Aqui está a versão aprimorada com ícones e mais detalhes sobre seus projetos do GitHub:
 
-# 🚀 Talys Matheus - Engenheiro de Software & Especialista em Automação
+# 🚀 Talys Matheus - Analista de TI & Especialista em Automação
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;N8N+Workflow+Expert;AI+Integration+Specialist;Typescript+Engineer" />
