@@ -151,6 +151,10 @@ interface ProfessionalProfile {
       <img src="https://img.icons8.com/fluency/48/ssh.png" width="48" height="48" alt="SSH"/>
       <br><strong>SSH</strong>
     </td>
+<td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/contabo.png" width="48" height="48" alt="Contabo"/>
+      <br><strong>Contabo</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" width="110">
@@ -170,7 +174,7 @@ interface ProfessionalProfile {
       <br><strong>EasyPanel</strong>
     </td>
  <td align="center" width="110">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-shadow-tal-revivo.png" width="48" height="48" alt="Nginx"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png" width="48" height="48" alt="Nginx"/>
       <br><strong>Nginx</strong>
     </td>
     <td align="center" width="110">
