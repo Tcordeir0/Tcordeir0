@@ -169,6 +169,10 @@ interface ProfessionalProfile {
       <img src="custom-easypanel-icon.png" width="48" height="48" alt="EasyPanel"/>
       <br><strong>EasyPanel</strong>
     </td>
+ <td align="center" width="110">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-shadow-tal-revivo.png" width="48" height="48" alt="Nginx"/>
+      <br><strong>Nginx</strong>
+    </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=server" width="48" height="48" alt="VPS"/>
       <br><strong>VPS</strong>
