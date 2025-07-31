@@ -1,4 +1,4 @@
-# 🚀 Talys Matheus - Engenheiro de Software & Especialista em Automação
+# 🚀 Talys Matheus - Analista de TI & Especialista em Automação
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;N8N+Workflow+Expert;AI+Integration+Specialist;Typescript+Engineer" />
@@ -99,13 +99,16 @@ class OngoingEducation:
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-github)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talys-matheus-c-silva-b04aa42a7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talysmatheus12@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5564999727955)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tcordeir0&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Tcordeir0&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil"/>
 </div>
+
