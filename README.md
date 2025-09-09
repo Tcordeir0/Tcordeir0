@@ -1,12 +1,12 @@
-# 🚀 Talys Matheus - Analista de TI & Especialista em Automação
+# 🚀 Talys Matheus - IT Analyst & Automation Specialist
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;N8N+Workflow+Expert;AI+Integration+Specialist;Typescript+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;N8N+Workflow+Expert;AI+Integration+Specialist;TypeScript+Engineer" />
 </div>
 
-## 🔍 Visão Profissional
+## 🔍 Professional Overview
 
-```typescript
+\`\`\`typescript
 interface ProfessionalProfile {
   role: "Software Engineer";
   expertise: [
@@ -27,32 +27,32 @@ interface ProfessionalProfile {
     databases: ["🐘 PostgreSQL", "🍃 MongoDB", "📊 Google Sheets"];
   };
 }
-```
+\`\`\`
 
-## 🛠️ Habilidades Técnicas Avançadas
+## 🛠️ Advanced Technical Skills
 
-### N8N & Automação
+### N8N & Automation
 ![N8N](https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=white)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-FF6C37?style=for-the-badge&logo=robot&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Desenvolvimento Moderno
+### Modern Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Sistemas de Mensageria
+### Messaging Systems
 ![Whaticket](https://img.shields.io/badge/Whaticket-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Evolution API](https://img.shields.io/badge/Evolution_API-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![ZyxChat](https://img.shields.io/badge/ZyxChat-FF6C37?style=for-the-badge&logo=chatbot&logoColor=white)
 
-## 🛠️ Stack Tecnológica Completa
+## 🛠️ Complete Technology Stack
 
 <div align="center">
   
-### 🔹 Linguagens & Frameworks
+### 🔹 Languages & Frameworks
 <table>
   <tr>
     <td align="center" width="110">
@@ -100,7 +100,7 @@ interface ProfessionalProfile {
   </tr>
 </table>
 
-### 🔹 Banco de Dados & Cloud
+### 🔹 Databases & Cloud
 <table>
   <tr>
     <td align="center" width="110">
@@ -126,7 +126,7 @@ interface ProfessionalProfile {
   </tr>
 </table>
 
-### 🔹 Ferramentas & Plataformas
+### 🔹 Tools & Platforms
 <table>
   <tr>
     <td align="center" width="110">
@@ -149,7 +149,7 @@ interface ProfessionalProfile {
       <img src="https://img.icons8.com/fluency/48/ssh.png" width="48" height="48" alt="SSH"/>
       <br><strong>SSH</strong>
     </td>
-<td align="center" width="110">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/contabo.png" width="48" height="48" alt="Contabo"/>
       <br><strong>Contabo</strong>
     </td>
@@ -161,7 +161,7 @@ interface ProfessionalProfile {
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI"/>
-      <br><strong>IA/ML</strong>
+      <br><strong>AI/ML</strong>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
@@ -171,7 +171,7 @@ interface ProfessionalProfile {
       <img src="https://lifeincloud.com/wp-content/uploads/2024/10/app-easypanel.svg" width="48" height="48" alt="EasyPanel"/>
       <br><strong>EasyPanel</strong>
     </td>
- <td align="center" width="110">
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png" width="48" height="48" alt="Nginx"/>
       <br><strong>Nginx</strong>
     </td>
@@ -184,55 +184,55 @@ interface ProfessionalProfile {
 
 </div>
 
-## 🏆 Projetos Notáveis
+## 🏆 Featured Projects
 
-### 💬 [ZyxChat - Plataforma de Chatbots](https://github.com/Tcordeir0/ZyxChat)
-- **Stack:** TypeScript, React, N8N, Evolution API
-- **Features:**
-  - 🚀 Sistema de fluxos conversacionais avançados
-  - 🔄 Integração com WhatsApp, Telegram e SMS
-  - 📊 Painel administrativo com React e TypeScript
-  - 🤖 IA para respostas automáticas contextualizadas
+### 💬 [ZyxChat - Chatbot Platform](https://github.com/Tcordeir0/ZyxChat)
+- **Tech Stack:** TypeScript, React, N8N, Evolution API
+- **Key Features:**
+  - 🚀 Advanced conversational flow system
+  - 🔄 Multi-platform integration (WhatsApp, Telegram, SMS)
+  - 📊 Administrative dashboard built with React & TypeScript
+  - 🤖 AI-powered contextual automated responses
 
-### 📄 [Leitor Automático de NF-e](https://github.com/Tcordeir0/Leitor-de-NF)
-- **Stack:** N8N, Tesseract OCR, Google Gemini
-- **Recursos:**
-  - 🔍 Extração automática de dados fiscais
-  - 📱 Processamento via WhatsApp (imagens/documents)
-  - 🗃️ Armazenamento em Google Sheets
-  - ✅ Validação de chaves de acesso de 44 dígitos
+### 📄 [Automated NF-e Reader](https://github.com/Tcordeir0/Leitor-de-NF)
+- **Tech Stack:** N8N, Tesseract OCR, Google Gemini
+- **Capabilities:**
+  - 🔍 Automatic fiscal document data extraction
+  - 📱 WhatsApp processing (images/documents)
+  - 🗃️ Google Sheets integration for data storage
+  - ✅ 44-digit access key validation
 
 ### ⚡ [WhatsApp Automation Suite](https://github.com/Tcordeir0/WhatsApp-Automation)
-- **Tecnologias:** 
-  - N8N workflows complexos
+- **Technologies:** 
+  - Complex N8N workflows
   - Evolution API integration
-  - Google Sheets como banco de dados
-  - LangChain para memória de conversação
+  - Google Sheets as database
+  - LangChain for conversation memory
 
-### 🏦 [Sistema Bancário Simples](https://github.com/Tcordeir0/Sistema-Bancario)
-- **Stack:** Python, SQLite
-- **Destaques:**
-  - 🏛️ Operações bancárias básicas
-  - 🔐 Sistema de autenticação
-  - 📈 Gerenciamento de contas e transações
+### 🏦 [Simple Banking System](https://github.com/Tcordeir0/Sistema-Bancario)
+- **Tech Stack:** Python, SQLite
+- **Highlights:**
+  - 🏛️ Core banking operations
+  - 🔐 Authentication system
+  - 📈 Account and transaction management
 
-### 🎮 [Jogo da Forca](https://github.com/Tcordeir0/Jogo-da-Forca)
-- **Tecnologias:** Python
+### 🎮 [Hangman Game](https://github.com/Tcordeir0/Jogo-da-Forca)
+- **Technology:** Python
 - **Features:**
-  - 🎯 Lógica de jogo completa
-  - 📖 Sistema de palavras e dicas
-  - 🖥️ Interface de terminal intuitiva
+  - 🎯 Complete game logic
+  - 📖 Word and hint system
+  - 🖥️ Intuitive terminal interface
 
-## 📈 Estatísticas GitHub
+## 📈 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tcordeir0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcordeir0&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tcordeir0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcordeir0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 🎓 Educação Contínua
+## 🎓 Continuous Learning
 
-```python
+\`\`\`python
 class OngoingEducation:
     def __init__(self):
         self.current_focus = [
@@ -247,9 +247,9 @@ class OngoingEducation:
             "google_cloud": "☁️ AI/ML Specialization",
             "react": "⚛️ TypeScript Best Practices"
         }
-```
+\`\`\`
 
-## 🌐 Conecte-se Comigo
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -262,5 +262,5 @@ class OngoingEducation:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tcordeir0&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=Tcordeir0&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
