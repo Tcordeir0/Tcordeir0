@@ -1,21 +1,23 @@
-🚀 Talys Matheus - IT Analyst & Automation Specialist
+🚀 Talys Matheus - IT Analyst & Automation Specialist (Analyste TI & Spécialiste en Automatisation)
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;N8N+Workflow+Expert;AI+Integration+Specialist;Typescript+Engineer" />
 </div>
 
-🔍 Professional Overview
+🔍 Professional Vision (Vision Professionnelle)
+TypeScript
+
 interface ProfessionalProfile {
   role: "Software Engineer";
   expertise: [
-    "🔧 Backend Development", 
-    "⚡ Process Automation", 
-    "🧠 AI Integration"
+    "🔧 Backend Development (Développement Backend)",
+    "⚡ Process Automation (Automatisation des Processus)",
+    "🧠 AI Integration (Intégration d'IA)"
   ];
-  currentFocus: "🛠️ Building intelligent automation solutions with N8N";
+  currentFocus: "🛠️ Building intelligent automation solutions with N8N (Construction de solutions d'automatisation intelligentes avec N8N)";
   signatureProjects: [
-    "💬 ZyxChat", 
-    "📱 WhatsApp Automation Suite", 
-    "🧾 Brazilian E-Invoice (NF-e) Reader"
+    "💬 ZyxChat",
+    "📱 WhatsApp Automation Suite",
+    "🧾 NF-e Reader"
   ];
   techStack: {
     languages: ["🔵 TypeScript", "🐍 Python", "🟣 PHP"];
@@ -24,15 +26,14 @@ interface ProfessionalProfile {
     databases: ["🐘 PostgreSQL", "🍃 MongoDB", "📊 Google Sheets"];
   };
 }
-
-🛠️ Advanced Technical Skills
-N8N & Automation
-Modern Development
-Messaging Systems
-🛠️ Complete Tech Stack
+🛠️ Advanced Technical Skills (Compétences Techniques Avancées)
+N8N & Automation (N8N & Automatisation)
+Modern Development (Développement Moderne)
+Messaging Systems (Systèmes de Messagerie)
+🛠️ Complete Tech Stack (Stack Technologique Complète)
 <div align="center">
 
-🔹 Languages & Frameworks
+🔹 Languages & Frameworks (Langages & Frameworks)
 <table>
 <tr>
 <td align="center" width="110">
@@ -80,7 +81,7 @@ Messaging Systems
 </tr>
 </table>
 
-🔹 Databases & Cloud
+🔹 Databases & Cloud (Bases de Données & Cloud)
 <table>
 <tr>
 <td align="center" width="110">
@@ -106,7 +107,7 @@ Messaging Systems
 </tr>
 </table>
 
-🔹 Tools & Platforms
+🔹 Tools & Platforms (Outils & Plateformes)
 <table>
 <tr>
 <td align="center" width="110">
@@ -164,100 +165,94 @@ Messaging Systems
 
 </div>
 
-🏆 Notable Projects
-💬 ZyxChat - Chatbot Platform
+🏆 Notable Projects (Projets Notables)
+💬 ZyxChat - Chatbot Platform (Plateforme de Chatbots)
 Stack: TypeScript, React, N8N, Evolution API
 
-Features:
+Features (Fonctionnalités):
 
-🚀 Advanced conversational flow system
+🚀 Advanced conversational flow system (Système de flux conversationnels avancés)
 
-🔄 Integration with WhatsApp, Telegram, and SMS
+🔄 Integration with WhatsApp, Telegram, and SMS (Intégration avec WhatsApp, Telegram et SMS)
 
-📊 Admin panel built with React and TypeScript
+📊 Admin dashboard with React and TypeScript (Tableau de bord administratif avec React et TypeScript)
 
-🤖 AI for contextual automated responses
+🤖 AI for contextualized automatic responses (IA pour des réponses automatiques contextualisées)
 
-📄 Automatic E-Invoice (NF-e) Reader
+📄 Automatic NF-e Reader (Lecteur Automatique de NF-e)
 Stack: N8N, Tesseract OCR, Google Gemini
 
-Features:
+Features (Caractéristiques):
 
-🔍 Automatic extraction of fiscal data
+🔍 Automatic extraction of fiscal data (Extraction automatique des données fiscales)
 
-📱 Processing via WhatsApp (images/documents)
+📱 Processing via WhatsApp (images/documents) (Traitement via WhatsApp (images/documents))
 
-🗃️ Storage in Google Sheets
+🗃️ Storage in Google Sheets (Stockage dans Google Sheets)
 
-✅ Validation of 44-digit access keys
+✅ Validation of 44-digit access keys (Validation des clés d'accès à 44 chiffres)
 
 ⚡ WhatsApp Automation Suite
-Technologies: - Complex N8N workflows
+Technologies:
+
+Complex N8N workflows (Workflows N8N complexes)
 
 Evolution API integration
 
-Google Sheets as a database
+Google Sheets as a database (Google Sheets comme base de données)
 
-LangChain for conversation memory
+LangChain for conversational memory (LangChain pour la mémoire conversationnelle)
 
-🏦 Simple Banking System
+🏦 Simple Banking System (Système Bancaire Simple)
 Stack: Python, SQLite
 
-Highlights:
+Highlights (Points forts):
 
-🏛️ Basic banking operations
+🏛️ Basic banking operations (Opérations bancaires de base)
 
-🔐 Authentication system
+🔐 Authentication system (Système d'authentification)
 
-📈 Account and transaction management
+📈 Account and transaction management (Gestion des comptes et des transactions)
 
-🎮 Hangman Game
+🎮 Hangman Game (Jeu du Pendu)
 Technologies: Python
 
-Features:
+Features (Fonctionnalités):
 
-🎯 Complete game logic
+🎯 Complete game logic (Logique de jeu complète)
 
-📖 Word and hint system
+📖 Word and hint system (Système de mots et d'indices)
 
-🖥️ Intuitive terminal interface
+🖥️ Intuitive terminal interface (Interface de terminal intuitive)
 
-📈 GitHub Stats
+📈 GitHub Stats (Statistiques GitHub)
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTcordeir0%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26locale%3Den"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTcordeir0%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight%26locale%3Den"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tcordeir0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcordeir0&layout=compact&langs_count=7&theme=tokyonight&locale=en"/>
 </div>
 
-🎓 Ongoing Education
+🎓 Ongoing Education (Formation Continue)
+Python
+
 class OngoingEducation:
     def __init__(self):
         self.current_focus = [
-            "📘 Advanced TypeScript Patterns",
-            "🏗️ Microservices Architecture",
-            "🤖 AI-Powered Automation"
+            "📘 Advanced TypeScript Patterns (Modèles TypeScript Avancés)",
+            "🏗️ Microservices Architecture (Architecture des Microservices)",
+            "🤖 AI-Powered Automation (Automatisation Pilotée par l'IA)"
         ]
         
     def certifications(self):
         return {
-            "n8n": "🎖️ Advanced Workflow Design",
-            "google_cloud": "☁️ AI/ML Specialization",
-            "react": "⚛️ TypeScript Best Practices"
+            "n8n": "🎖️ Advanced Workflow Design (Conception de Workflow Avancée)",
+            "google_cloud": "☁️ AI/ML Specialization (Spécialisation IA/ML)",
+            "react": "⚛️ TypeScript Best Practices (Meilleures Pratiques TypeScript)"
         }
-
-```
-
-## 🌐 Conecte-se Comigo
-
+🌐 Connect with Me (Connectez-vous avec Moi)
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talys-matheus-c-silva-b04aa42a7/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talysmatheus12@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5564999727955)
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tcordeir0&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil"/>
+<img src="https://komarev.com/ghpvc/?username=Tcordeir0&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
