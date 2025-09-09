@@ -7,7 +7,7 @@
 ## 🔍 Professional Overview
 
 
-\`\`\`typescript
+```typescript
 interface ProfessionalProfile {
   role: "Software Engineer";
   expertise: [
@@ -28,7 +28,7 @@ interface ProfessionalProfile {
     databases: ["🐘 PostgreSQL", "🍃 MongoDB", "📊 Google Sheets"];
   };
 }
-\`\`\`
+```
 
 ## 🛠️ Advanced Technical Skills
 
