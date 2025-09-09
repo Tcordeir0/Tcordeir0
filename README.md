@@ -6,6 +6,7 @@
 
 ## 🔍 Professional Overview
 
+
 \`\`\`typescript
 interface ProfessionalProfile {
   role: "Software Engineer";
