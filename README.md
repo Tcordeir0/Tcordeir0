@@ -108,7 +108,7 @@ interface ProfessionalProfile {
       <br><strong>Flask</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=deno" width="48" height="48" alt="Deno"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="48" height="48" alt="Deno"/>
       <br><strong>Deno</strong>
     </td>
   </tr>
@@ -134,7 +134,7 @@ interface ProfessionalProfile {
       <br><strong>MongoDB</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="Google Cloud"/>
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud"/>
       <br><strong>GCP</strong>
     </td>
     <td align="center" width="110">
@@ -168,7 +168,7 @@ interface ProfessionalProfile {
       <br><strong>VS Code</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/fluency/48/ssh.png" width="48" height="48" alt="SSH"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" width="48" height="48" alt="SSH"/>
       <br><strong>SSH</strong>
     </td>
   </tr>
@@ -178,7 +178,7 @@ interface ProfessionalProfile {
       <br><strong>Contabo VPS</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://lifeincloud.com/wp-content/uploads/2024/10/app-easypanel.svg" width="48" height="48" alt="EasyPanel"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/easypanel.png" width="48" height="48" alt="EasyPanel"/>
       <br><strong>EasyPanel</strong>
     </td>
     <td align="center" width="110">
@@ -190,11 +190,11 @@ interface ProfessionalProfile {
       <br><strong>Visual Studio</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI"/>
+      <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="AI/ML"/>
       <br><strong>AI/ML</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/fluency/48/virtual-machine2.png" width="48" height="48" alt="VPS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="VPS"/>
       <br><strong>VPS</strong>
     </td>
   </tr>
