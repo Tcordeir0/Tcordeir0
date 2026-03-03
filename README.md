@@ -5,7 +5,6 @@
 </div>
 
 ## 🔍 Professional Overview
-
 ```typescript
 interface ProfessionalProfile {
   role: "Software Engineer & IT Analyst";
@@ -178,8 +177,13 @@ interface ProfessionalProfile {
       <br><strong>Contabo VPS</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/easypanel.png" width="48" height="48" alt="EasyPanel"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/easypanel.png" width="48" height="48" alt="EasyPanel"
+        onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/dokploy.png'"/>
       <br><strong>EasyPanel</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/dokploy.png" width="48" height="48" alt="Dokploy"/>
+      <br><strong>Dokploy</strong>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png" width="48" height="48" alt="Nginx"/>
@@ -188,10 +192,6 @@ interface ProfessionalProfile {
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio"/>
       <br><strong>Visual Studio</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-      <br><strong>AI/ML</strong>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="VPS"/>
@@ -257,16 +257,19 @@ interface ProfessionalProfile {
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tcordeir0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Talys GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcordeir0&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tcordeir0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800)](https://github.com/Tcordeir0)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcordeir0&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Tcordeir0)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tcordeir0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Tcordeir0&theme=tokyonight&hide_border=true)](https://github.com/Tcordeir0)
+
 </div>
 
 ## 🎓 Continuous Learning
-
 ```python
 class OngoingEducation:
     def __init__(self):
