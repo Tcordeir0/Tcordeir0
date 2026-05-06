@@ -292,14 +292,13 @@ interface ProfessionalProfile {
 
 <div align="center">
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tcordeir0&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Tcordeir0)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcordeir0&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)](https://github.com/Tcordeir0)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Tcordeir0&theme=tokyonight&hide_border=true)](https://github.com/Tcordeir0)
 
 </div>
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Tcordeir0&theme=tokyonight&hide_border=true)](https://github.com/Tcordeir0)
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=Tcordeir0&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Tcordeir0)
 
 </div>
 
